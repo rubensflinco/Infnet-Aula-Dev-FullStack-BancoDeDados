@@ -4,9 +4,9 @@ const mysql = require('mysql');
 // Configurações da conexão com o banco de dados
 const dbConfig = {
     host: 'rubensflinco.com.br',
-    user: 'rubensflinco_express',
-    password: 'uvXGWTbmvKwz',
-    database: 'rubensflinco_infnet'
+    user: '',
+    password: '',
+    database: ''
 };
 
 // Criação da conexão com o banco de dados
