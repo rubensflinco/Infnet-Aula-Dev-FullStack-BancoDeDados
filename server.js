@@ -3,7 +3,7 @@ const mysql = require('mysql');
 
 // Configurações da conexão com o banco de dados
 const dbConfig = {
-    host: 'rubensflinco.com.br',
+    host: '',
     user: '',
     password: '',
     database: ''
