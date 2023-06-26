@@ -15,3 +15,4 @@
 - https://code.visualstudio.com/download
 - https://git-scm.com/downloads
 - https://nodejs.org/en
+- https://cliente.planetsweb.com.br/hospedagem-compartilhada-site-php
